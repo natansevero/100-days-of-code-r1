@@ -11,3 +11,7 @@ I created a github repository for log my 100 days of code and resumed the freeCo
 ### R1D2
 
 I finished the Basic CSS challenges and started the Applied Visual Design challenges of the freeCodeCamp. 
+
+### R1D3
+
+I did some challenges of Applied Visual Design of the freeCodeCamp

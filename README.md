@@ -15,3 +15,7 @@ I finished the Basic CSS challenges and started the Applied Visual Design challe
 ### R1D3
 
 I did some challenges of Applied Visual Design of the freeCodeCamp
+
+### R1D4
+
+I completed the Applied Visual Design challenges

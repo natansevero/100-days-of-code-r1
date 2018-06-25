@@ -19,3 +19,11 @@ I did some challenges of Applied Visual Design of the freeCodeCamp
 ### R1D4
 
 I completed the Applied Visual Design challenges
+
+### R1D5
+
+I finished the Applied Accessibility challenges
+
+### R1D6
+
+I finished the Responsive Web Design Principles challenges and started the CSS Flexbox challenges

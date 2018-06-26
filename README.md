@@ -27,3 +27,7 @@ I finished the Applied Accessibility challenges
 ### R1D6
 
 I finished the Responsive Web Design Principles challenges and started the CSS Flexbox challenges
+
+### R1D7
+
+I completed the CSS Flexbox challenges. Flexbox is amazing.

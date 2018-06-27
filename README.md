@@ -31,3 +31,7 @@ I finished the Responsive Web Design Principles challenges and started the CSS F
 ### R1D7
 
 I completed the CSS Flexbox challenges. Flexbox is amazing.
+
+### R1D8
+
+I finished the CSS Grid challenges. 

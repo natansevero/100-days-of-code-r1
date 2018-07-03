@@ -46,4 +46,4 @@ I still working in the survey form of the freeCodeCamp project
 
 ### R1D11
 
-I watched the second video of the workshop Fullstack Angular e Spring by Algaworks
+I watched the second video of the workshop Fullstack Angular and Spring by Algaworks

@@ -47,3 +47,7 @@ I still working in the survey form of the freeCodeCamp project
 ### R1D11
 
 I watched the second video of the workshop Fullstack Angular and Spring by Algaworks
+
+### R1D12
+
+I resumed my studies of Angular, but from scratch. By the documentation, I started the famous Tour of Heroes tutorial

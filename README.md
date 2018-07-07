@@ -55,3 +55,7 @@ I resumed my studies of Angular, but from scratch. By the documentation, I start
 ### R1D13
 
 By the first time, I used Spring Boot. I created a simple API for control of sales
+
+### R1D14/D15
+
+I learned how deploy a Spring Boot application to heroku and I made more of the Angular Tutorial, the Tour of Heroes

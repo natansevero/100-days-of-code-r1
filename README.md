@@ -58,4 +58,8 @@ By the first time, I used Spring Boot. I created a simple API for control of sal
 
 ### R1D14/D15
 
-I learned how deploy a Spring Boot application to heroku and I made more of the Angular Tutorial, the Tour of Heroes
+I learned how to deploy a Spring Boot application to heroku and I made more of the Angular Tutorial, the Tour of Heroes
+
+### R1D16
+
+I learned how to create Services in Angular on Tour of Heroes tutorial

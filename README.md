@@ -63,3 +63,7 @@ I learned how to deploy a Spring Boot application to heroku and I made more of t
 ### R1D16
 
 I learned how to create Services in Angular on Tour of Heroes tutorial
+
+### R1D17
+
+I learned how to create Routing in Angular on Tour of Heroes tutorial

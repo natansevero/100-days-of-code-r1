@@ -67,3 +67,7 @@ I learned how to create Services in Angular on Tour of Heroes tutorial
 ### R1D17
 
 I learned how to create Routing in Angular on Tour of Heroes tutorial
+
+### R1D18
+
+I learned how to create a Angular in memory web API and how to do http requests with the HttpClient module

@@ -75,3 +75,7 @@ I learned how to create a Angular in memory web API and how to do http requests 
 ### R1D19
 
 I concluded the Tour of Heroes tutorial of the Angular documentation \o/
+
+### R1D20
+
+I learned about Webpack 

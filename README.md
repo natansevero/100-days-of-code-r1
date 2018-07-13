@@ -79,3 +79,7 @@ I concluded the Tour of Heroes tutorial of the Angular documentation \o/
 ### R1D20
 
 I learned about Webpack 
+
+### R1D21
+
+I resumed my studies about React. I read about components (children components too), props, state, controlled and uncontrolled components

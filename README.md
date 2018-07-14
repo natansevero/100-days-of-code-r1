@@ -87,3 +87,7 @@ I resumed my studies about React. I read about components (children components t
 ### R1D22
 
 I started a Todo application with React
+
+### R1D23
+
+I concluded the To-do list application with React

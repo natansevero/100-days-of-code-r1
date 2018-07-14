@@ -83,3 +83,7 @@ I learned about Webpack
 ### R1D21
 
 I resumed my studies about React. I read about components (children components too), props, state, controlled and uncontrolled components
+
+### R1D22
+
+I started a Todo application with React

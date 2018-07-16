@@ -91,3 +91,7 @@ I started a Todo application with React
 ### R1D23
 
 I concluded the To-do list application with React
+
+### R1D24
+
+I learned about Redux and how to integrate Redux with a React application

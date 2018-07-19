@@ -99,3 +99,7 @@ I learned about Redux and how to integrate Redux with a React application
 ### R1D25
 
 I started to migrate the state of the Todo-list application to Redux
+
+### R1D26/D27
+
+I completed the migration of the To-do List application state to Redux

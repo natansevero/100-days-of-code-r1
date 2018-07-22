@@ -107,3 +107,7 @@ I completed the migration of the To-do List application state to Redux
 ### R1D28
 
 I started a Store API project just to apply new contents that I learned about Node.js 
+
+### R1D29/D30
+
+I finished the Store API project with Node.js

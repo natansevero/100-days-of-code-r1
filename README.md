@@ -111,3 +111,7 @@ I started a Store API project just to apply new contents that I learned about No
 ### R1D29/D30
 
 I finished the Store API project with Node.js
+
+### R1D31
+ 
+I concluded the Java Multithreading course on Udemy

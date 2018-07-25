@@ -119,3 +119,7 @@ I concluded the Java Multithreading course on Udemy
 ### R1D32
 
 I started a new project with React. This time is a Billing Cycle application. And today, I created the back-end application and do the front-end application configuration 
+
+### R1D33
+
+I created the components: header, menu, sideMenu and footer. I defined too the Routes for Dashboard and BillingCycle components of the Billing Cycle application

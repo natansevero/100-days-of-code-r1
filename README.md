@@ -123,3 +123,7 @@ I started a new project with React. This time is a Billing Cycle application. An
 ### R1D33
 
 I created the components: header, menu, sideMenu and footer. I defined too the Routes for Dashboard and BillingCycle components of the Billing Cycle application
+
+### R1D34/D35
+
+I configured the Redux in my Billing Cycle application and created new components to tabs

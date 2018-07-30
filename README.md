@@ -127,3 +127,7 @@ I created the components: header, menu, sideMenu and footer. I defined too the R
 ### R1D34/D35
 
 I configured the Redux in my Billing Cycle application and created new components to tabs
+
+### R1D36/D37/D38
+
+In these days, I continued working in my Billing Cycle application and I did: I configured the Redux, work with tabs visibility, create a component to list the data, create a form component to insert data, integrate the Redux Form and integrate react-redux-toastr to handle with alert messages  

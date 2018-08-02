@@ -138,4 +138,4 @@ I created a custom field component to redux-form, implemented functionalities to
 
 ### R1D41
 
-Adding, cloning and removing Credits and Debts, refactoring the CredList components to reuse, adjusting menu responsive and adding a new strategy to routes of the Billing Cycle application
+Adding, cloning and removing Credits and Debts, refactoring the ItemList component to reuse, adjusting menu responsive and adding a new strategy to routes of the Billing Cycle application

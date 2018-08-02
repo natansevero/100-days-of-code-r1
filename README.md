@@ -135,3 +135,7 @@ In these days, I continued working in my Billing Cycle application and I did: I 
 ### R1D39/D40
 
 I created a custom field component to redux-form, implemented functionalities to update and remove to BillingCycle and created a new component CreditList
+
+### R1D41
+
+Adding, cloning and removing Credits and Debts, refactoring the CredList components to reuse, adjusting menu responsive and adding a new strategy to routes of the Billing Cycle application

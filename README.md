@@ -139,3 +139,7 @@ I created a custom field component to redux-form, implemented functionalities to
 ### R1D41
 
 Adding, cloning and removing Credits and Debts, refactoring the ItemList component to reuse, adjusting menu responsive and adding a new strategy to routes of the Billing Cycle application
+
+### R1D42/D43/D44
+
+Adding auth strategy in backend and frontend application and doing deployment to heroku. DONE! I finished my Billing Cycle application \o/

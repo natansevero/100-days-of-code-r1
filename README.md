@@ -143,3 +143,7 @@ Adding, cloning and removing Credits and Debts, refactoring the ItemList compone
 ### R1D42/D43/D44
 
 Adding auth strategy in backend and frontend application and doing deployment to heroku. DONE! I finished my Billing Cycle application \o/
+
+### R1D45
+
+I started a new application to manage courses. Today I initialized the backend application with Node.js

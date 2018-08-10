@@ -150,4 +150,4 @@ I started a new application to manage courses. Today I initialized the backend a
 
 ### R1D46
 
-I created the repositories to students, instructors, courses and classes in the manage courses application backend
+I created the repositories modules to students, instructors, courses and classes in the manage courses application backend

@@ -147,3 +147,7 @@ Adding auth strategy in backend and frontend application and doing deployment to
 ### R1D45
 
 I started a new application to manage courses. Today I initialized the backend application with Node.js
+
+### R1D46
+
+I created the repositories to students, instructors, courses and classes in the manage courses application backend

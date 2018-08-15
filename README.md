@@ -151,3 +151,7 @@ I started a new application to manage courses. Today I initialized the backend a
 ### R1D46
 
 I created the repositories modules to students, instructors, courses and classes in the manage courses application backend
+
+### R1D47/D48
+
+I created the controllers and routes to students and courses in the manage courses application backend

@@ -155,3 +155,7 @@ I created the repositories modules to students, instructors, courses and classes
 ### R1D47/D48
 
 I created the controllers and routes to students and courses in the manage courses application backend
+
+### R1D49
+
+I created the controller and routes to instructors in the manage courses application backend

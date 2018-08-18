@@ -159,3 +159,7 @@ I created the controllers and routes to students and courses in the manage cours
 ### R1D49
 
 I created the controller and routes to instructors in the manage courses application backend
+
+### R1D50
+
+I created the controller and routes to classes in the manage courses application backend

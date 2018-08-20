@@ -163,3 +163,7 @@ I created the controller and routes to instructors in the manage courses applica
 ### R1D50
 
 I created the controller and routes to classes in the manage courses application backend
+
+### R1D51/D52
+
+I finished the search of the classes with filters

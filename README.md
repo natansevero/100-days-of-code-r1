@@ -167,3 +167,7 @@ I created the controller and routes to classes in the manage courses application
 ### R1D51/D52
 
 I finished the search of the classes with filters
+
+### R1D53
+
+I started the front-end application. I created the Header and SideMenu components

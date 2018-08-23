@@ -171,3 +171,8 @@ I finished the search of the classes with filters
 ### R1D53
 
 I started the front-end application. I created the Header and SideMenu components
+
+### R1D54/D55
+
+I defined the pages routes and started the component to students page
+

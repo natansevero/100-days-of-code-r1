@@ -176,3 +176,6 @@ I started the front-end application. I created the Header and SideMenu component
 
 I defined the pages routes and started the component to students page
 
+### R1D56
+
+I defined the register form and listing of students

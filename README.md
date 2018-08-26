@@ -179,3 +179,7 @@ I defined the pages routes and started the component to students page
 ### R1D56
 
 I defined the register form and listing of students
+
+### R1D57
+
+I learned how to use Apollo client with a React.js application. I created a simple application to list blog posts consuming a GraphQL API

@@ -183,3 +183,7 @@ I defined the register form and listing of students
 ### R1D57
 
 I learned how to use Apollo client with a React.js application. I created a simple application to list blog posts consuming a GraphQL API
+
+### R1D58/D59
+
+I finished the CRUD of students

@@ -187,3 +187,7 @@ I learned how to use Apollo client with a React.js application. I created a simp
 ### R1D58/D59
 
 I finished the CRUD of students
+
+### R1D60
+
+Today I did the refactoring of the students components

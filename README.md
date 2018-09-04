@@ -191,3 +191,7 @@ I finished the CRUD of students
 ### R1D60
 
 Today I did the refactoring of the students components
+
+### R1D61/D62
+
+I learned how to integrate the Firebase with a React.js application and I created a simple CRUD

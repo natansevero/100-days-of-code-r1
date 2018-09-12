@@ -195,3 +195,7 @@ Today I did the refactoring of the students components
 ### R1D61/D62
 
 I learned how to integrate the Firebase with a React.js application and I created a simple CRUD
+
+### R1D63/D64/D65
+
+I learned how to use all the features of Firebase authentication with a React.js application

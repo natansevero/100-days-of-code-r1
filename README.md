@@ -199,3 +199,7 @@ I learned how to integrate the Firebase with a React.js application and I create
 ### R1D63/D64/D65
 
 I learned how to use all the features of Firebase authentication with a React.js application
+
+### R1D66
+
+I created a React.js application using Redux and Firebase

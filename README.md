@@ -207,3 +207,7 @@ I created a React.js application using Redux and Firebase
 ### R1D67
 
 I learned about JavaScript project good practices
+
+### R1D68/D69
+
+I learned about things that I didn't have been see in ES6 yet

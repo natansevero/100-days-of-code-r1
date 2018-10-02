@@ -211,3 +211,7 @@ I learned about JavaScript project good practices
 ### R1D68/D69
 
 I learned about things that I didn't have been see in ES6 yet
+
+### R1D70
+
+I started my TDD studies. Today I studied about the test theory

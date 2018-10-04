@@ -219,3 +219,7 @@ I started my TDD studies. Today I studied about the test theory
 ### R1D71
 
 I started the use of Mocha and Chai
+
+### R1D72
+
+I learned about Mocha hooks and Chai methods

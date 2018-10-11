@@ -223,3 +223,7 @@ I started the use of Mocha and Chai
 ### R1D72
 
 I learned about Mocha hooks and Chai methods
+
+### R1D73/D74
+
+I did some "smoke tests" and applied TDD in a little calculator library

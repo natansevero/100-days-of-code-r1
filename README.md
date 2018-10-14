@@ -231,3 +231,7 @@ I did some "smoke tests" and applied TDD in a little calculator library
 ### R1D75 
 
 I did a simple library to the FizzBuzz challenge and applied the test coverage concepts
+
+### R1D76/D77
+
+I started a small spotify web API wrapper library to apply the TDD in practice

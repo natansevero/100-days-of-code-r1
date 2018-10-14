@@ -227,3 +227,7 @@ I learned about Mocha hooks and Chai methods
 ### R1D73/D74
 
 I did some "smoke tests" and applied TDD in a little calculator library
+
+### R1D75 
+
+I did a simple library to the FizzBuzz challenge and applied the test coverage concepts

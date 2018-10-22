@@ -235,3 +235,7 @@ I did a simple library to the FizzBuzz challenge and applied the test coverage c
 ### R1D76/D77
 
 I started a small spotify web API wrapper library to apply the TDD in practice
+
+### R1D78
+
+Doing code refactoring of the test to use the mocha hooks and returning promises in test

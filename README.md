@@ -239,3 +239,7 @@ I started a small spotify web API wrapper library to apply the TDD in practice
 ### R1D78
 
 Doing code refactoring of the test to use the mocha hooks and returning promises in test
+
+### R1D79
+
+Fixing bugs with the method 'returnsPromise' of the sinon-stub-promise. I implemented the tests and the functionality to searchArtist method of the my Spotify Wrapper library

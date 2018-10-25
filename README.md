@@ -243,3 +243,7 @@ Doing code refactoring of the test to use the mocha hooks and returning promises
 ### R1D79
 
 Fixing bugs with the method 'returnsPromise' of the sinon-stub-promise. I implemented the tests and the functionality to searchArtist method of the my Spotify Wrapper library
+
+### R1D80/D81
+
+I implemented the new methods to album endpoints and did refactoring of the code

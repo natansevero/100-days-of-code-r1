@@ -247,3 +247,7 @@ Fixing bugs with the method 'returnsPromise' of the sinon-stub-promise. I implem
 ### R1D80/D81
 
 I implemented the new methods to album endpoints and did refactoring of the code
+
+### R1D82
+
+I configured  my lib to generate the umd file and do the code transpile

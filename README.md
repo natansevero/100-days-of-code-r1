@@ -251,3 +251,7 @@ I implemented the new methods to album endpoints and did refactoring of the code
 ### R1D82
 
 I configured  my lib to generate the umd file and do the code transpile
+
+### R1D83
+
+I tested my library UMD version and integrated the library with Travis CI

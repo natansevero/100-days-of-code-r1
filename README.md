@@ -255,3 +255,7 @@ I configured  my lib to generate the umd file and do the code transpile
 ### R1D83
 
 I tested my library UMD version and integrated the library with Travis CI
+
+### R1D84
+
+I learned how to integrate the coveralls in my spotify wrapper library

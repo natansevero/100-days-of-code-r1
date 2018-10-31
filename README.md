@@ -259,3 +259,7 @@ I tested my library UMD version and integrated the library with Travis CI
 ### R1D84
 
 I learned how to integrate the coveralls in my spotify wrapper library
+
+### R1D85/D86
+
+I started a new application to practice my TDD skills. A Spotify Player

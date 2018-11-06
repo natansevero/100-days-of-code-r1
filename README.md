@@ -263,3 +263,7 @@ I learned how to integrate the coveralls in my spotify wrapper library
 ### R1D85/D86
 
 I started a new application to practice my TDD skills. A Spotify Player
+
+### R1D87
+
+I started the Rocketseat workshop, the GoWeek. Today, I created the backend application following the workshop. A simple Node.js application using Express.js and Socket.io

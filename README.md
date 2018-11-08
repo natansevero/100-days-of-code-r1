@@ -267,3 +267,7 @@ I started a new application to practice my TDD skills. A Spotify Player
 ### R1D87
 
 I started the Rocketseat workshop, the GoWeek. Today, I created the backend application following the workshop. A simple Node.js application using Express.js and Socket.io
+
+### R1D88
+
+Today, I created the frontend applcation following the GoWeek workshop

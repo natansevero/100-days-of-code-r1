@@ -271,3 +271,7 @@ I started the Rocketseat workshop, the GoWeek. Today, I created the backend appl
 ### R1D88
 
 Today, I created the frontend applcation following the GoWeek workshop
+
+### R1D89/D90
+
+I created the mobile application with React Native following the GoWeek workshop

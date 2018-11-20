@@ -275,3 +275,7 @@ Today, I created the frontend applcation following the GoWeek workshop
 ### R1D89/D90
 
 I created the mobile application with React Native following the GoWeek workshop
+
+### R1D91
+
+About the Spotify player application, today I created the tests to listAlbums functionality
